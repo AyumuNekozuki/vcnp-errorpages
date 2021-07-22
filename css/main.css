@@ -4,6 +4,7 @@ body{
   font-feature-settings: "palt";
   font-size: 32px;
   overflow: hidden;
+  font-family: -apple-system,BlinkMacSystemFont,Helvetica Neue,Hiragino Kaku Gothic ProN,Meiryo,sans-serif;
 }
 
 header{
